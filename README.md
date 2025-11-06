@@ -1,0 +1,1 @@
+# kinematic_analysis-of-a-slider-crank-RRPR-
